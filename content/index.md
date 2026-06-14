@@ -1,6 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: The Creative Knowledge Base
 ---
+# The Creative Knowledge Base
+
+This knowledge base explores the intersection of creativity and technology covering ideas, tools, workflows, and concepts that help turn imagination into something real.
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
