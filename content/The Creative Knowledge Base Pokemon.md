@@ -7,9 +7,9 @@ This knowledge base explores the world of Pokémon through organized categories 
 
 ## Main Categories
 
-- [[Pokémon Basics|Pokémon Basics]]
-- [[Pokémon Species|Pokémon Species]]
-- [[Battles and Strategy|Battles and Strategy]]
-- [[Items and Abilities|Items and Abilities]]
-- [[Games and Regions|Games and Regions]]
-- [[Trainers and Characters|Trainers and Characters]]
+- [[pokemon-basics/Index|Pokémon Basics]]
+- [[pokemon-species/Index|Pokémon Species]]
+- [[battles-and-strategy/Index|Battles and Strategy]]
+- [[items-and-abilities/Index|Items and Abilities]]
+- [[games-and-regions/Index|Games and Regions]]
+- [[trainers-and-characters/Index|Trainers and Characters]]
