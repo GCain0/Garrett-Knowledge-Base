@@ -23,3 +23,4 @@ A Pokémon’s type affects both the moves it uses and how it responds to attack
 ## Related Basics
 
 Type interactions directly influence [[pokemon-stats]] and how certain Pokémon evolve in [[evolution-basics]]. They also determine how effective different [[moves-and-categories]] are during battle.
+[[index]]

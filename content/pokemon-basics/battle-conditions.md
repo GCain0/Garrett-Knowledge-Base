@@ -35,4 +35,4 @@ Burn, paralysis, poison, sleep, and freeze all affect battle performance.
 
 ## How Conditions Connect to Other Basics
 
-Battle conditions influence move effectiveness in [[moves-and-categories]], interact with [[pokemon-types]], and can affect stat performance in [[pokemon-stats]]. Some evolutions in [[evolution-basics]] even require specific conditions.
+Battle conditions influence move effectiveness in [[moves-and-categories]], interact with [[pokemon-types]], and can affect stat performance in [[pokemon-stats]]. Some evolutions in [[evolution-basics]] even require specific conditions. [[index]]
