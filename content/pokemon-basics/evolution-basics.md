@@ -34,4 +34,4 @@ Time of day, location, moves known, or even holding items.
 ## How Evolution Connects to Other Basics
 
 Evolution often changes a Pokémon’s [[pokemon-types]] and dramatically increases its [[pokemon-stats]]. It may unlock new [[moves-and-categories]] and can be influenced by certain [[battle-conditions]].
-[[index]]
+[[pokemon-basics/index]] 

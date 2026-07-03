@@ -28,4 +28,4 @@ Don’t deal damage but apply effects.
 ## Type and Stat Interactions
 
 Moves rely heavily on [[pokemon-types]] and [[pokemon-stats]]. Some moves trigger evolution conditions in [[evolution-basics]], and many interact with [[battle-conditions]] such as weather or terrain.
-[[index]]
+[[pokemon-basics/index]] 

@@ -8,4 +8,3 @@ title: Pokémon Basics
 - [[evolution-basics]]
 - [[moves-and-categories]]
 - [[battle-conditions]]
-- 

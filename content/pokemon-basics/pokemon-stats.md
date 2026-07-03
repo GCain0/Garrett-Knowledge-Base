@@ -30,4 +30,4 @@ Determines turn order.
 
 ## How Stats Connect to Other Basics
 
-Stats influence how effective certain types are in [[pokemon-types]] and can determine when a Pokémon evolves in [[evolution-basics]]. They also shape which [[moves-and-categories]] a Pokémon should learn and how it performs under [[battle-conditions]]. [[index]]
+Stats influence how effective certain types are in [[pokemon-types]] and can determine when a Pokémon evolves in [[evolution-basics]]. They also shape which [[moves-and-categories]] a Pokémon should learn and how it performs under [[battle-conditions]]. [[pokemon-basics/index]] 
